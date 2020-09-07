@@ -2,7 +2,7 @@
 ### Example user template template
 ### Example user template
 
-# IntelliJ project files
+# 不需要的文件
 .idea
 *.iml
 out
